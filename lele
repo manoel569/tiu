@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,A Fazenda
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/afazenda_70ac2ffc_d82317c4af565063d7ee97e91bd7b12a587c1cfa/playlist.m3u8
+#EXTINF:-1,Cine Sky
+http://tvnanet.xyz:25461/live/palestra2020/verdao2020/33.m3u8
+#EXTINF:-1,Cinemax
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/cinemax720p_49117359_f176df503cbef3af853eb632bd2d7f4ba8107e6d.m3u8
+#EXTINF:-1,Fox
+http://tvnanet.xyz:25461/live/palestra2020/verdao2020/86.m3u8
+#EXTINF:-1,HBO2
+http://tvnanet.xyz:25461/live/palestra2020/verdao2020/136.m3u8
+#EXTINF:-1,Max Prime
+http://tvnanet.xyz:25461/live/palestra2020/verdao2020/155.m3u8
+#EXTINF:-1,Telecine Action HD
+http://tvnanet.xyz:25461/live/palestra2020/verdao2020/239.m3u8
+#EXTINF:-1,Telecine Pipoca 
+http://tvnanet.xyz:25461/live/palestra2020/verdao2020/245.m3u8
+#EXTINF:-1,Warner Channel
+http://tvnanet.xyz:25461/live/palestra2020/verdao2020/265.m3u8
